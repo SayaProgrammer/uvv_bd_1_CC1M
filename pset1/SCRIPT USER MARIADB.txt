@@ -1,0 +1,10 @@
+<MYSQL>---------------------------------------------------
+CREATE USER 'gabriel'@'localhost' IDENTIFIED BY 'KCORP';
+GRANT ALL PRIVILEGES on *.* TO 'gabriel'@'localhost';
+FLUSH PRIVILEGES;
+
+<Entrar no MYSQL>-----------------------------------------
+mysql -u gabriel -p
+senha: KCORP
+CREATE DATABASE uvv;
+USE uvv;

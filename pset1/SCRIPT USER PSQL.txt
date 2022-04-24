@@ -1,0 +1,24 @@
+<Postgres>------------------------------------------------
+CREATE USER gabriel
+WITH
+SUPERUSER
+CREATEDB
+CREATEROLE
+REPLICATION;
+
+\PASSWORD gabriel 'KCORP';
+
+<Entrar no Postgres>-----------------------------------------
+CREATE DATABASE UVV
+WITH
+OWNER = gabriel
+TEMPLATE = template0
+ENCODING = 'UFT8'
+LC_COLLATE = 'pt_BR.UTF-8'
+LC_CTYPE = 'pt_BR.UTF-8'
+ALLOW_CONNECTIONS = true;
+
+exit
+
+psql -U gabriel uvv
+senha: KCORP
