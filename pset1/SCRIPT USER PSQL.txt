@@ -22,3 +22,9 @@ exit
 
 psql -U gabriel uvv
 senha: KCORP
+
+CREATE SCHEMA elmasri;
+SET SEARCH_PATH TO elmasri, '$user', public;
+
+ALTER USER gabriel
+SET SEARCH_PATH TO elmarsi, '$user', public;
