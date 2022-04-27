@@ -14,3 +14,9 @@ Você pode se guiar pelos documentos com os seguintes nomes:
 3. Script User PSQL (Contém o processo de criação de usuário e entrada no PostgreSQL para a criação do BD)
 4. Script PSQL (Contém o SCRIPT para a criação das tabelas comentadas do PostgreSQL
 5. Script Inserts (Contém o SCRIPT para a inserção de dados do esquema Elmasri tanto para MariaDB quanto PostgreSQL)
+
+# Projeto Lógico
+O pset foi baseado no projeto lógico feito pelo Elmasri em seu livro. Os scripts também foram construídos e retirados dele, feito no SQL Power Architect. Algumas alterações diretas foram feitas na construção do modelo Lógico para que ele se adequasse ao objetivo e funcionalidade do projeto.
+
+![image](https://user-images.githubusercontent.com/95388737/165425669-64ea6b6f-16fe-4175-a332-84174675a736.png)
+
