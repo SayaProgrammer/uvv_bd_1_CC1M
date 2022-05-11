@@ -32,5 +32,4 @@ A criação desta tabela e códigos foram feitos usando o Dbeaver com a linguage
 Você pode se guiar pelos seguintes documentos presentes neste pset:
 
 * README (este documento) --> Serve como um guia para este pset
-* SCRIPTS Questões --> Os scripts separados por cada questão
-* Questões Comentadas --> Lista com as questões, suas resoluções, códigos e tabelas resultantes
+* Questões Comentadas --> Lista com as questões, suas resoluções, códigos e tabelas resultantes. Também tem updates necessários para o outro pset.
