@@ -33,4 +33,4 @@ Você pode se guiar pelos seguintes documentos presentes neste pset:
 
 * README (este documento) --> Serve como um guia para este pset
 * SCRIPTS Questões --> Os scripts separados por cada questão
-* Questões --> Lista com as questões, suas resoluções e tabelas resultantes
+* Questões Comentadas --> Lista com as questões, suas resoluções, códigos e tabelas resultantes
