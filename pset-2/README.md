@@ -27,3 +27,10 @@ SELECT funcionario.numero_departamento, AVG(funcionario.salario) as media_salari
 |                   5 |   33250.000000 |
 
 A criação desta tabela e códigos foram feitos usando o Dbeaver com a linguagem sendo o MariaDB/MySQL
+
+# Guia de documentos
+Você pode se guiar pelos seguintes documentos presentes neste pset:
+
+* README (este documento) --> Serve como um guia para este pset
+* SCRIPTS Questões --> Os scripts separados por cada questão
+* Questões --> Lista com as questões, suas resoluções e tabelas resultantes
