@@ -14,7 +14,7 @@ INSERT INTO departamento (nome_departamento, numero_departamento, cpf_gerente, d
 values
 ('Pesquisa', '5', '33344555587', '1988-05-22'),
 ('Administração', '4', '98765432168', '1995-01-01'),
-('Matris', '1', '88866555576', '1981-06-19');
+('Matriz', '1', '88866555576', '1981-06-19');
 
 INSERT INTO localizacoes_departamento (numero_departamento, local)
 values
@@ -60,5 +60,5 @@ values
 ('98798798733', '30', '5.0'),
 ('98765432168', '30', '20.0'),
 ('98765432168', '20', '15.0'),
-('88866555576', '20', null);
+('88866555576', '20', '0.0');
 
