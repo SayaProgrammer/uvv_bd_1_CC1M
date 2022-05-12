@@ -4,3 +4,4 @@ Este repositório servirá como acervo de todos os projetos (psets, trabalhos e 
 # Listagem de PSETS
 
 PSet 1 - Concluído (Data da Entrega: 26/04/2022)
+PSet 2 - Concluído (Data da Entrega: 11/05/2022)
